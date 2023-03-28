@@ -10,3 +10,5 @@ Aplicativo construído para compor uma atividade avaliativa da disciplina de Com
 - Clone o projeto
 - Na pasta raíz do projeto rode o comando `slidy run mobx_build`
 - Execute a aplicação no ambiente desejado
+
+## Início OsvaldoTCF
